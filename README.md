@@ -1,6 +1,6 @@
 ### Prerequsites
 
-`python 3`
+It should work on machine with python 3.7. And I suppose will work on other python 3 subversions too.
 
 ### Install requirements
 
